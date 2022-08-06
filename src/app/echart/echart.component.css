@@ -1,0 +1,41 @@
+.box {
+    text-align: center;
+}
+
+.time {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#figure {
+    display: flex;
+    height: 400px;
+    line-height: 400px;
+    justify-content: space-around;
+}
+
+#figure1 {
+    /* flex: 1; */
+    /* height: 400px; */
+    width: 700px;
+    height: 350px;
+    /* border: 1px solid #ccc; */
+    background: #ccc;
+    align-self: flex-start;
+}
+
+#figure2 {
+    /* flex: 1; */
+    /* line-height: 400px; */
+    width: 700px;
+    height: 350px;
+    background: #ccc;
+    /* border: 1px solid #ccc; */
+}
+
+#line {
+    height: 350px;
+    background: #ccc;
+    width: 1450px;
+    margin: 0 auto;
+}
