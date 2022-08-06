@@ -235,7 +235,7 @@ export class EchartComponent implements OnInit {
       },
       {
         value: Math.floor(Math.random()*10000),
-        name: '服饰箱包'
+        name: '服饰'
       },
       {
         value: Math.floor(Math.random()*10000),
